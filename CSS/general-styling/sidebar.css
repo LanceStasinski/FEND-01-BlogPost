@@ -5,7 +5,7 @@
     grid-template-rows: repeat(1fr, 2);
     grid-gap: 5px;
     background-color: #ddd;
-    border-radius: 2%;
+    border-radius: 8px;
     box-shadow: 2px 2px 2px  rgba(0, 0, 0, 0.3);
     grid-area: sd;
 }
@@ -50,7 +50,7 @@
 
         #active-post {
             color: rgb(8, 155, 155);
-        } 
+        }
 
 /* || Social media */
     .social-media {
